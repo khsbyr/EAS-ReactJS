@@ -1,0 +1,29 @@
+nav {
+    margin: 25px;
+    padding: 16px;
+    text-align: center;
+    justify-items: center;
+    align-items: center;
+    .menuItems {
+      list-style: none;
+      display: flex;
+  
+      li {
+        margin: 50px;
+  
+        a {
+          text-decoration: none;
+          color: #fff;
+          font-size: 20px;
+          left: 470px;
+          font-weight: bold;
+          transition: all 0.5s ease-in-out;
+          position: relative;
+          text-transform: uppercase;
+  
+        }
+      }
+    }
+  }
+
+
